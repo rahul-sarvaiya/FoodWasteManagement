@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/61679330/206704377-b8325c6e-ca0c-4818-b7cb-7b8b06ba68e8.png)
 ![image](https://user-images.githubusercontent.com/61679330/206704973-53670361-d571-4b32-a9b3-c77dd3ad6c0f.png)
 
-DONOR DASHBOARD:
+DONORs DASHBOARD:
 
 ![image](https://user-images.githubusercontent.com/61679330/206704532-d1ed186a-5cca-4df9-a0d8-635c9a7b5df4.png)
 ![image](https://user-images.githubusercontent.com/61679330/206704736-43af72fa-c0ac-4a8b-86ad-e1c3c0dd74ad.png)
